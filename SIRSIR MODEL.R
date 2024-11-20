@@ -1,3 +1,8 @@
+# Bachelor projekt 2024
+#
+#
+# author:  Kristian Juul Rasmussen
+#
 
 rm(list=ls())
 

@@ -2,7 +2,7 @@
 """
 Created on Mon Sep 23 15:43:53 2024
 
-@author: Krist
+@author: Kristian Juul Rasmussen
 """
 import numpy as np
 import random

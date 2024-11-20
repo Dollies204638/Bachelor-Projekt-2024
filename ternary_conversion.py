@@ -2,7 +2,7 @@
 """
 Created on Fri Oct 18 14:15:58 2024
 
-@author: Krist
+@author: Kristian Juul Rasmussen
 """
 
 
